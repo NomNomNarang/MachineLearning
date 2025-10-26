@@ -1,2 +1,4 @@
-# Real_estate_price_prediction
+# My digital diary
+Machine learning notes
+
 
